@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "meta1_1",
+    "module_label": "META.1.1 - Architecture Standards Enforcement",
+    "module_title": "Architecture Standards Enforcement",
+    "module_slug": "architecture_standards_enforcement",
+    "app_code": "meta1",
+    "app_label": "META 1 - Enterprise Architecture Governance",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta1_3",
+    "module_label": "META.1.3 - Governance Reporting & Review Logging",
+    "module_title": "Governance Reporting & Review Logging",
+    "module_slug": "governance_reporting_and_review_logging",
+    "app_code": "meta1",
+    "app_label": "META 1 - Enterprise Architecture Governance",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta1_2",
+    "module_label": "META.1.2 - Layer & Module Alignment Monitoring",
+    "module_title": "Layer & Module Alignment Monitoring",
+    "module_slug": "layer_and_module_alignment_monitoring",
+    "app_code": "meta1",
+    "app_label": "META 1 - Enterprise Architecture Governance",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  }
+]
